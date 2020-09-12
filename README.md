@@ -1,7 +1,6 @@
 # Hello, world! 👋
 
 ### Welcome to my GitHub profile ✨
-->THIS TEXT IS IN THE CENTER!
 
 [![EvonuX's github stats](https://github-readme-stats.vercel.app/api?username=EvonuX&count_private=true)](https://github.com/EvonuX/github-readme-stats)
 
