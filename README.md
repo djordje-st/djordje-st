@@ -9,7 +9,7 @@
 ### Stats
 
 <a href="https://github.com/EvonuX">
-  <img height="180em" src="https://camo.githubusercontent.com/f9217030edfe132230c8004085c836c1866f65fc/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d6a65666572736f6e2d73622673686f775f69636f6e733d74727565267468656d653d7675652d6461726b26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api?username=EvonuX&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
+  <img height="180em" data-canonical-src="https://github-readme-stats.vercel.app/api?username=EvonuX&show_icons=true&count_private=true" style="max-width:100%;">
   <img height="180em" src="https://camo.githubusercontent.com/ecf3a66bee4e99ccd804bc3938bfa3afbea7001e/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a65666572736f6e2d7362266c61796f75743d636f6d70616374267468656d653d7675652d6461726b" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EvonuX&amp;layout=compact" style="max-width:100%;">
 </a>
 
