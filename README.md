@@ -12,6 +12,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvonuX&layout=compact" height="180em" style="max-width:100%;" />
 </a>
 
+- 🔭 Working on a a full-stack ecommerce website
+- 🌱 Learning: Docker | Kubernetes | Python
+
 ### Featured projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EvonuX&repo=React-Dad-Jokes-v2)](https://github.com/EvonuX/React-Dad-Jokes-v2)
