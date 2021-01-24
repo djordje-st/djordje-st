@@ -22,7 +22,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EvonuX&repo=React-Dad-Jokes-v2)](https://github.com/EvonuX/React-Dad-Jokes-v2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EvonuX&repo=react-rest-countries)](https://github.com/EvonuX/react-rest-countries)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EvonuX&repo=Vue-Movies)](https://github.com/EvonuX/Vue-Movies)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=EvonuX&repo=my-unsplash-vue)](https://github.com/EvonuX/my-unsplash-vue)
 
 <p align="center"> 
   Awesome people visited so far<br><br>
