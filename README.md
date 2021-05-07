@@ -14,7 +14,7 @@
 
 ### Currently
 
-- 🔭 Working on a a full-stack ecommerce website
+- 🔭 Working on a a full-stack job posting platform
 - 🌱 Learning: Docker | Kubernetes | Python
 
 ### Featured projects
